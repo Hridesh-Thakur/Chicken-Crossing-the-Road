@@ -22,3 +22,8 @@ You control a chicken using the **arrow keys** and try to reach the other side o
 - Mobile-friendly touch controls (optional – coming soon)
 - Retro pixel-art / cartoon style (made with CSS)
 
+## Play Now
+If you want to play this game, click the link below:
+
+[🚀 Play Game](https://crossing-the-road.vercel.app/)
+
