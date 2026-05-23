@@ -1,35 +1,55 @@
-# Chicken Cross the Road – 2D Browser Game
+# Chicken Crossing the Road 🐔
 
-A simple, nostalgic **"Why did the chicken cross the road?"** game built with **pure HTML, CSS, and JavaScript** (no frameworks, no canvas, just DOM + CSS positioning).
+A fun and interactive browser-based game where the chicken has to cross the road while avoiding obstacles and surviving as long as possible.  
+Built using frontend web technologies for a smooth and engaging gameplay experience.
 
-You control a chicken using the **arrow keys** and try to reach the other side of the road without getting hit by obsticles.
+## Live Demo
 
+Click below to play the game online:
 
-## 🎮 How to Play
+<p align="center">
+  <a href="https://crossing-the-road.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Game-01696f?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Game Button" />
+  </a>
+</p>
 
-- Use **↑ ↓ ← →** arrow keys to move the chicken
-- Reach the **top** of the screen = you win the level
-- Touch any vehicle = game over
-- The more levels you pass, the faster and more vehicles appear
+## Features
 
-## ✨ Features
+- Fun crossing-style gameplay
+- Interactive controls
+- Smooth browser experience
+- Lightweight and easy to run
+- Deployed online with Vercel
 
-- Pure vanilla JavaScript (no libraries)
-- DOM-based movement & collision detection
-- Increasing difficulty (speed & vehicle count)
-- Score tracking (endless game)
-- Simple start / game-over / restart screen
-- Mobile-friendly touch controls (optional – coming soon)
-- Retro pixel-art / cartoon style (made with CSS)
+## Tech Stack
 
+- HTML
+- CSS
+- JavaScript
 
+## Project Setup
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Hridesh-Thakur/Chicken-Crossing-the-Road.git
+   ```
 
-<div align="center">
-<h1>🚀 Play Now</h1>
+2. Open the project folder:
+   ```bash
+   cd Chicken-Crossing-the-Road
+   ```
 
-<h3>If you want to play this game, click the button below:</h3>
+3. Run the project by opening the `index.html` file in your browser.
 
-[![Explore Now](https://img.shields.io/badge/🚀%20Play%20Now-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://crossing-the-road.vercel.app/)
+## Project Link
 
+- GitHub Repo: [Chicken-Crossing-the-Road](https://github.com/Hridesh-Thakur/Chicken-Crossing-the-Road)
+- Live Game: [Play Now](https://crossing-the-road.vercel.app/)
 
+## Author
+
+**Hridesh Thakur**
+
+---
+
+If you like this project, consider giving it a star on GitHub.
