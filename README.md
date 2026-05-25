@@ -1,4 +1,4 @@
-# Chicken Crossing the Road 🐔                 
+# Chicken Crossing the Road 🐔                      
 
 A fun and interactive browser-based game where the chicken has to cross the road while avoiding obstacles and surviving as long as possible.  
 Built using frontend web technologies for a smooth and engaging gameplay experience.
